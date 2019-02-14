@@ -1,0 +1,1 @@
+# ADRESÁŘ O PŘÍKAZECH GITU
